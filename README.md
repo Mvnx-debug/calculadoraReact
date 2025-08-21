@@ -24,7 +24,7 @@ Estrutura organizada, fácil de entender e expandir.
 
 📂 Como executar o projeto
 # Clonar o repositório
-git clone https://github.com/Mvnx-debug/calculadora-curso-DIO.git
+git clone [https://github.com/Mvnx-debug/calculadora-curso-DIO.git](https://github.com/Mvnx-debug/calculadoraReact)
 
 # Entrar no diretório
 cd calculadora-curso-DIO
