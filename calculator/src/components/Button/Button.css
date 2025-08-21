@@ -1,0 +1,29 @@
+.button{
+    font-size: 1.2rem;
+    padding: 15px;
+    border: none;
+    border-radius: 5px;
+    transition: background-color 02s ease;
+    color: #FFFFFF;
+    background-color: rgb(173, 170, 170);
+    cursor:pointer;
+
+}
+.button hover{
+    opacity: 0.9;
+}
+.clear{
+    background-color: red;
+   
+}
+.clear:hover{
+    opacity: 0.5;
+}
+.operator{
+    background-color: orange;
+}
+.equal{
+    grid-column: span 2;
+    background-color: green;
+}
+
