@@ -18,9 +18,7 @@ Uso da biblioteca Math.js, que permitiu simplificar operações matemáticas e r
 
 Estrutura organizada, fácil de entender e expandir.
 
-📸 Demonstração
 
-(Aqui você pode incluir uma captura de tela ou um GIF mostrando a calculadora em funcionamento)
 
 📂 Como executar o projeto
 # Clonar o repositório
